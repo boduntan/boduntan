@@ -76,7 +76,7 @@ I enjoy solving complex problems, documenting best practices, and helping teams 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=boduntan&show_icons=true&theme=tokyonight)
-
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boduntan&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
